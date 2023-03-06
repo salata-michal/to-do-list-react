@@ -2,9 +2,9 @@ import React from "react";
 import "./style.css";
 
 const Tasks = ({ tasks, hideDoneTasks }) => (
-  <ul key={tasks} className="tasks">
+  <ul className="tasks">
     {tasks.map(task => (
-      <li key={task}
+      <li key={task.id}
         className={`tasks__item ${task.done && hideDoneTasks
             ? "tasks__item--hidden" : ""}`}
       >
