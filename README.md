@@ -17,6 +17,9 @@ This application allows us to add tasks to the task list and allows you to mark 
 - GIT
 - GRID
 - IMMUTABILITY
+- Create React App
+- Babel
+- WebPack
 
 
 
