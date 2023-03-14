@@ -5,8 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Demo
 https://salata-michal.github.io/todo-list-react/
 
+![todo-list-react screen](https://user-images.githubusercontent.com/120677379/225114418-29b5bf2b-b0f9-41ce-9867-d0d51982da7e.jpg)
 
-![todo-list-react screen](https://user-images.githubusercontent.com/120677379/225113763-3add396f-33bb-4e0c-8775-ba0e3e83f85a.jpg)
+
 
 
 # Description
