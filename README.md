@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Demo
-https://salata-michal.github.io/todo-list-react/
+https://salata-michal.github.io/to-do-list-react/
 
 
 # Description
