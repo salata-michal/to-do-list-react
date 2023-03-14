@@ -21,22 +21,6 @@ This application allows us to add tasks to the task list and allows you to mark 
 - Babel
 - WebPack
 
-
-
-# Demo
-https://salata-michal.github.io/todo-list-react/
-
-# Description
-This application allows us to add tasks to the task list and allows you to mark whether it has been done and delete a given task.
-
-# Technologies
-- HTML
-- CSS
-- JAVA SCRIPT
-- BEM
-- GIT
-- GRID
-- IMMUTABILITY
 ## Available Scripts
 
 In the project directory, you can run:
