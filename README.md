@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 https://salata-michal.github.io/todo-list-react/
 
 
+![todo-list-react screen](https://user-images.githubusercontent.com/120677379/225113763-3add396f-33bb-4e0c-8775-ba0e3e83f85a.jpg)
+
+
 # Description
 This application allows us to add tasks to the task list and allows you to mark whether it has been done and delete a given task.
 
